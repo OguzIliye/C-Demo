@@ -1,0 +1,7 @@
+C:\Users\iliye\source\repos\InterfacesDemo\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\iliye\source\repos\InterfacesDemo\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\iliye\source\repos\InterfacesDemo\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\iliye\source\repos\InterfacesDemo\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\iliye\source\repos\InterfacesDemo\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\iliye\source\repos\InterfacesDemo\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\iliye\source\repos\InterfacesDemo\AbstractClass\obj\Debug\AbstractClass.pdb

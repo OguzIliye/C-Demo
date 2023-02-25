@@ -1,0 +1,6 @@
+C:\Users\iliye\source\repos\InterfacesDemo\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\iliye\source\repos\InterfacesDemo\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\iliye\source\repos\InterfacesDemo\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\iliye\source\repos\InterfacesDemo\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\iliye\source\repos\InterfacesDemo\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\iliye\source\repos\InterfacesDemo\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\iliye\source\repos\InterfacesDemo\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\iliye\source\repos\InterfacesDemo\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\iliye\source\repos\InterfacesDemo\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\iliye\source\repos\InterfacesDemo\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\iliye\source\repos\InterfacesDemo\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\iliye\source\repos\InterfacesDemo\RecapDemo2\obj\Debug\RecapDemo2.pdb
+C:\Users\iliye\source\repos\InterfacesDemo\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache

@@ -17,6 +17,9 @@ namespace AbstractClass
             Database database2 = new SqlServer();
             database2.Add();
             database2.Delete();
+            Teacher.Number = 10;
+
+
 
             Console.ReadLine();
         }
@@ -46,7 +49,8 @@ namespace AbstractClass
     }
     static class Teacher
     {
-        public int Number { get; set; }
+        public static int Number { get; set; }
     }
+
 
 }

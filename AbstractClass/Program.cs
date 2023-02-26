@@ -44,5 +44,9 @@ namespace AbstractClass
         }
 
     }
+    static class Teacher
+    {
+        public int Number { get; set; }
+    }
 
 }

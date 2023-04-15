@@ -1,0 +1,7 @@
+C:\Users\iliye\source\repos\InterfacesDemo\Generics\bin\Debug\Generics.exe.config
+C:\Users\iliye\source\repos\InterfacesDemo\Generics\bin\Debug\Generics.exe
+C:\Users\iliye\source\repos\InterfacesDemo\Generics\bin\Debug\Generics.pdb
+C:\Users\iliye\source\repos\InterfacesDemo\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\iliye\source\repos\InterfacesDemo\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\iliye\source\repos\InterfacesDemo\Generics\obj\Debug\Generics.exe
+C:\Users\iliye\source\repos\InterfacesDemo\Generics\obj\Debug\Generics.pdb

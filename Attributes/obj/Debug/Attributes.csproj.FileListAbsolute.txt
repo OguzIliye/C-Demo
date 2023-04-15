@@ -1,0 +1,7 @@
+C:\Users\iliye\source\repos\InterfacesDemo\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\iliye\source\repos\InterfacesDemo\Attributes\bin\Debug\Attributes.exe
+C:\Users\iliye\source\repos\InterfacesDemo\Attributes\bin\Debug\Attributes.pdb
+C:\Users\iliye\source\repos\InterfacesDemo\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\iliye\source\repos\InterfacesDemo\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\iliye\source\repos\InterfacesDemo\Attributes\obj\Debug\Attributes.exe
+C:\Users\iliye\source\repos\InterfacesDemo\Attributes\obj\Debug\Attributes.pdb

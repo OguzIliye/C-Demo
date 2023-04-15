@@ -1,0 +1,7 @@
+C:\Users\iliye\source\repos\InterfacesDemo\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\iliye\source\repos\InterfacesDemo\Reflection\bin\Debug\Reflection.exe
+C:\Users\iliye\source\repos\InterfacesDemo\Reflection\bin\Debug\Reflection.pdb
+C:\Users\iliye\source\repos\InterfacesDemo\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\iliye\source\repos\InterfacesDemo\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\iliye\source\repos\InterfacesDemo\Reflection\obj\Debug\Reflection.exe
+C:\Users\iliye\source\repos\InterfacesDemo\Reflection\obj\Debug\Reflection.pdb

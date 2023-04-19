@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Attributes
 {
     public int x;
+    public int y;
     class Program
     {
         static void Main(string[] args)

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdoNetDemo
 {
+    public int x;
     public class Product
     {
         public int Id { get; set; }

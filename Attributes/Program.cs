@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Attributes
 {
+    public int x;
     class Program
     {
         static void Main(string[] args)
@@ -27,6 +28,7 @@ namespace Attributes
         [RequiredProperty]
         public int Age { get; set; }
     }
+
     class CustomerDal
     {
         [Obsolete("Don't use Add, instead use AddNew Method")]
